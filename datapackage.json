@@ -1,0 +1,31 @@
+{
+  "profile": "data-package",
+  "resources": [
+    {
+      "name": "resource1",
+      "path": "LogAirDaten_20_10_2021.json",
+      "profile": "data-resource",
+      "schema": {},
+      "format": "json"
+    }
+  ],
+  "keywords": [
+    "Air Quality"
+  ],
+  "name": "logair-luzern-2021",
+  "title": "Tims LogAir Daten",
+  "description": "Luftqualitätsdaten in Luzern gesammelt im Jahr 2021",
+  "contributors": [
+    {
+      "title": "Tim Zaugg",
+      "role": "author"
+    }
+  ],
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "title": "Creative Commons Attribution 4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/"
+    }
+  ]
+}
